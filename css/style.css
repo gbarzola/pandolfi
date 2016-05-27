@@ -1,0 +1,251 @@
+
+.large-10 {
+    padding: 0 0 0 0;
+}
+
+#nav-superior{
+    color:#ee1c25;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem; 
+    font-size: small;
+}
+
+.top-bar{
+    background-color: white;
+    padding: 0 0 0 0;
+}
+
+.menu > li > a{
+    background-color: white;
+    color: black;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.menu > li > a:hover{
+    background-color: #ee1c25;
+    color: white;
+}
+
+.orbit-caption{
+    height: 220px;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #fff;
+    text-shadow:rgb(0, 0, 0) 2px 2px 10px;
+    text-transform: uppercase;
+    line-height: 1;
+    text-align: center;
+    background-color: transparent;
+}
+
+.texto-sobrepuesto{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #fff;
+    text-shadow:rgb(0, 0, 0) 2px 2px 10px;
+    text-transform: uppercase;
+    line-height: 1;
+    text-align: center;
+    background-image: url(../images/placeholder-07.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.texto-sobrepuesto-prodotti{
+        font-size: 2.5em;
+    font-weight: bold;
+    color: #fff;
+    text-shadow:rgb(0, 0, 0) 2px 2px 10px;
+    text-transform: uppercase;
+    line-height: 1;
+    text-align: center;
+    background-image: url(../images/placeholder-07.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.texto-sobrepuesto-prodotti-detalle{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #fff;
+    text-shadow:rgb(0, 0, 0) 2px 2px 10px;
+    text-transform: uppercase;
+    line-height: 1;
+    text-align: center;
+    background-image: url(../images/placeholder-06.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.texto-sobrepuesto-contatti{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #fff;
+    text-shadow:rgb(0, 0, 0) 2px 2px 10px;
+    text-transform: uppercase;
+    line-height: 1;
+    text-align: center;
+    background-image: url(../images/placeholder-04.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.texto-sobrepuesto-servizi{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #fff;
+    text-shadow:rgb(0, 0, 0) 2px 2px 10px;
+    text-transform: uppercase;
+    line-height: 1;
+    text-align: center;
+    background-image: url(../images/placeholder-05.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+
+#logos{
+    background-color: #eaeaea;
+}
+
+#logos > div > div > h5 {
+    color:#ee1c25;
+    font-weight: bold;
+    text-align:center;
+}
+
+#image_description{
+    background-color: white;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    font-size: 15px;
+    color:#777777;
+}
+
+#image_description > div > div > div > img{
+    margin: 10px 0px 20px 0px;
+}
+
+#image_description > div > div > div > h5{
+    color:#ee1c25;
+    font-weight: bold;
+}
+
+.media-object-section > h5{
+    color:#ee1c25;
+    font-weight: bold;
+}
+
+#productos > div > div > h5  {
+    color:#ee1c25;
+    font-weight: bold;
+    text-align:center;
+}
+
+#productos-prodotti > div > div > h5  {
+    color:#ee1c25;
+    font-weight: bold;
+    text-align:left;
+}
+
+#productos-prodotti > div > div > div > h5  {
+    color:#ee1c25;
+}
+
+#trabajos  > div > div > h5 {
+    color:#ee1c25;
+    font-weight: bold;
+    text-align:center;
+}
+
+#direccion  > div > div > h5 {
+    color:#ee1c25;
+    font-weight: bold;
+    text-align:center;
+}
+
+#direccion > div > div > div > h6 {
+    font-size: large;
+    color: #777777;
+}
+
+#direccion > div > div > div > p {
+    color:#ee1c25;
+}
+
+#formulario > div > .large-10{
+    background-color: #eaeaea;
+}
+
+#formulario > div > div > div > div > div > div > .button {
+    background-color: #ee1c25;
+}
+
+#formulario > div > div > div > div > div > div > .button1 {
+    background-color: #eaeaea;
+    color: #8c8c8c;
+    border: 1px solid #cacaca;
+}
+
+#formulario > div > div > div > label {
+    color:#ee1c25;
+}
+
+#formulario-2{
+    color: #777777;
+}
+
+#formulario-2 > div > div > div > h5 {
+    color:#ee1c25;
+    font-weight: bold;
+}
+
+#formulario-2 > div > div > div > div > strong, #formulario-2 > div > div > div > div > p > strong{
+    color:#ee1c25;
+    font-weight: normal;
+}
+
+#formulario-2 > div > div > div > div > div > div > div > .button {
+    background-color: #ee1c25;
+}
+
+#formulario-2 > div > div > div > div > div > div > div > .button1 {
+    background-color: #eaeaea;
+    color: #8c8c8c;
+    border: 1px solid #cacaca;
+}
+
+#footer{
+    background-color: #eaeaea;    
+    padding-top: 1rem;
+}
+
+#footer > div > div > div > h6 {
+    color:#ee1c25;
+    padding-bottom: 1rem;
+    
+}
+
+#footer > div > div > div {
+    color: #777777;
+    padding-bottom: 1rem;
+}
+
+#footer > div > div > div > p > strong{
+    color:#ee1c25;
+    font-weight: normal;
+}
+
+#footer > div > div > div > p{
+}
